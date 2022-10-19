@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingContractor.Applicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingContractor.Persistence", "BuildingContractor.Persistence\BuildingContractor.Persistence.csproj", "{E364CD0D-7A83-4591-9846-F77E89521237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingContractor.WebAPI", "BuildingContractors.WebAPI\BuildingContractor.WebAPI.csproj", "{47ACD641-134D-43F1-B977-370D25EC4237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingContractor.WebAPI", "BuildingContractors.WebAPI\BuildingContractor.WebAPI.csproj", "{47ACD641-134D-43F1-B977-370D25EC4237}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

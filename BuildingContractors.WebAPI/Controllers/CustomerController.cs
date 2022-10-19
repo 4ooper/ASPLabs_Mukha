@@ -21,7 +21,6 @@ namespace BuildingContractor.WebAPI.Controllers
         {
             var query = new GetCustomerListQuery();
             var vm = await Mediator.Send(query);
-            Console.WriteLine(vm);
             return Ok(vm);
         }
 
@@ -32,8 +31,15 @@ namespace BuildingContractor.WebAPI.Controllers
             {
                 id = id
             };
-            var vm = await Mediator.Send(query);
-            return Ok(vm);
+            try
+            {
+                var vm = await Mediator.Send(query);
+                return Ok(vm);
+            }
+            catch
+            {
+                return BadRequest();
+            }
         }
 
         [HttpPost]
@@ -48,8 +54,15 @@ namespace BuildingContractor.WebAPI.Controllers
         public async Task<IActionResult> Update([FromForm] UpdateCustomerDto updateCustomerDto)
         {
             var command = _mapper.Map<UpdateCustomerCommand>(updateCustomerDto);
-            await Mediator.Send(command);
-            return NoContent();
+            try
+            {
+                await Mediator.Send(command);
+                return NoContent();
+            }
+            catch
+            {
+                return BadRequest();
+            }
         }
 
         [HttpDelete("{id}")]
@@ -59,8 +72,15 @@ namespace BuildingContractor.WebAPI.Controllers
             {
                 id = id,
             };
-            await Mediator.Send(command);
-            return NoContent();
+            try
+            {
+                await Mediator.Send(command);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

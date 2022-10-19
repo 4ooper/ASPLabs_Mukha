@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using BuildingContractor.Domain;
 
 namespace BuildingContractor.Application.Customers.Commands.UpdateCustomer
 {

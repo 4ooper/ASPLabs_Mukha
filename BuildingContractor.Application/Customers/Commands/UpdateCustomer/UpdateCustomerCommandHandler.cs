@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using BuildingContractor.Application.Common.Exceptions;
 using BuildingContractor.Domain;
 
-
-
 namespace BuildingContractor.Application.Customers.Commands.UpdateCustomer
 {
     public class UpdateCustomerCommandHandler : IRequestHandler<UpdateCustomerCommand>
@@ -18,7 +16,7 @@ namespace BuildingContractor.Application.Customers.Commands.UpdateCustomer
         {
             var entity = _dbcontext.customers.FirstOrDefaultAsync(customer => customer.id == request.id, cancellationToken);
 
-            if (entity == null || entity.Result.id != request.id)
+            if (entity.Result == null || entity.Result.id != request.id)
             {
                 throw new NotFoundException(nameof(Customer), request.id);
             }
