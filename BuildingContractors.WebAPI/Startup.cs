@@ -9,13 +9,14 @@ using BuildingContractor.Application;
 using BuildingContractor.Application.Common.Mappings;
 using BuildingContractor.Application.Interfaces;
 using BuildingContractor.Persistence;
+using BuildingContractor.WebAPI.Middleware;
+using BuildingContractor.WebAPI.Endpoints;
 
 namespace BuildingContractor.WebAPI
 {
     public class Startup
     {
         public IConfiguration Configuration { get; }
-
         public Startup(IConfiguration configuration) => Configuration = configuration;
         public void ConfigureServices(IServiceCollection services)
         {
@@ -28,6 +29,9 @@ namespace BuildingContractor.WebAPI
             services.AddApplication();
             services.AddPersistence(Configuration);
             services.AddControllers();
+            services.AddDistributedMemoryCache();
+            services.AddMemoryCache();
+            services.AddSession();
             services.AddControllers().AddNewtonsoftJson(options =>
                 options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
             );
@@ -56,6 +60,13 @@ namespace BuildingContractor.WebAPI
             app.UseSwagger();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");
+            app.UseSession();
+            app.Map("/Info", Endpoints.Endpoint.Info);
+            app.Map("/contractorMaterials", Endpoints.Endpoint.ContractorMaterials);
+            app.Map("/searchFirst", Endpoints.Endpoint.FirstSearch);
+            app.Map("/searchSecond", Endpoints.Endpoint.SecondSearch);
+
+            app.UseMiddleware<DefaultMidlleware>();
 
             app.UseEndpoints(endpoints =>
             {

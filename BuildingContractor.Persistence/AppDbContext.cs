@@ -17,7 +17,6 @@ namespace BuildingContractor.Persistence
         public DbSet<License> licenses { get; set; }
         public DbSet<listOfWork> listOfWorks { get; set; }
         public DbSet<AboutContractor> aboutContractor { get; set; }
-
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         protected override void OnModelCreating(ModelBuilder builder)
