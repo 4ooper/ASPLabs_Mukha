@@ -4,6 +4,6 @@ namespace BuildingContractor.Application.ConctractorMaterials.Quieres.GetConctra
 {
     public class GetConctractorMaterialListQuery : IRequest<ConctractorMaterialVm>
     {
-        public string cacheKey { get; set; }
+        public string cacheKey { get; set; } = "firstsearch";
     }
 }

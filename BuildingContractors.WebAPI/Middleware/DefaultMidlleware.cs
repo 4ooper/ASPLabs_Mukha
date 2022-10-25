@@ -24,10 +24,10 @@ namespace BuildingContractor.WebAPI.Middleware
             {
                 default:
                     htmlString = Endpoints.Endpoint.Template("Index",
-                    "<a href=\"/RepairingModels\">Contractor Materials</a>" +
+                    "<a href=\"/contractormaterials\">Contractor Materials</a>" +
                     "<a href=\"/Info\" class=\"bg-yellow\">Info</a>" +
-                    "<a href=\"/SearchFaults\" class=\"bg-green\">Search Faults</a>" +
-                    "<a href=\"/SearchRepairingModels\" class=\"bg-green\">Search Repairing Models</a>");
+                    "<a href=\"/searchFirst\" class=\"bg-green\">Search Form 1</a>" +
+                    "<a href=\"/searchSecond\" class=\"bg-green\">Search Form 2</a>");
                     await context.Response.WriteAsync(htmlString);
                     break;
             }

@@ -13,10 +13,11 @@ namespace BuildingContractor.WebAPI.Endpoints
             "a {display: block; padding: 5px 10px 5px 10px; font-size: 130%; " +
             "background-color: #BBF4FF; text-decoration: none; color: black;" +
             "margin-top: 10px; border-radius: 5px;}" +
-            "body {display: flex; flex-direction: column; align-items: center;}" +
+            "body {display:flex; flex-direction:column; align-items: center; align-items:center;}" +
             "h1 {text-align: center;}" +
-            ".bg-yellow {background-color: #FFF86E;}" +
-            ".bg-green {background-color: #49F883;}" +
+            ".bg-yellow {background-color: #ebeb34;}" +
+            ".bg-green {background-color: #34eb3a;}" +
+            ".bg-red {background-color: red; }" +
             "</style>";
 
         public static string Template(string title, string body)
