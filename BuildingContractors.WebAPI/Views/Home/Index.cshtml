@@ -1,0 +1,18 @@
+﻿@model BuildingContractor.Application.Producers.Quieres.GetProducersList.ProducerListVm
+@{
+    ViewData["Title"] = "Тест";
+}
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+    @foreach (var item in Model.producers)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+        </tr>
+    }
+</table>

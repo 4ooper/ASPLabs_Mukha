@@ -1,0 +1,48 @@
+﻿@model BuildingContractor.Application.ContractorTechnique.Quieres.GetContractorTechniqueList.ContractorTechniqueListVm
+@{
+    ViewData["Title"] = "Producer Page";
+}
+
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    a {
+        text-decoration: none;
+        cursor: pointer;
+        transition: 0.3s;
+        font-size: 20px;
+        color: black;
+        margin-bottom: 20px;
+    }
+    a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+</style>
+
+
+<div class="container">
+    <h1>Таблица AboutContractor</h1>
+    <a href="/">Назад</a>
+    <table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Buy Date</th>
+        <th>Validaty</th>
+    </tr>
+    @foreach (var item in Model.contractorTechniques)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.buyDate</td>
+            <td>@item.validaty</td>
+        </tr>
+    }
+</table>
+</div>

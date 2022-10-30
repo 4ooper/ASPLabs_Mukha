@@ -9,7 +9,8 @@ namespace BuildingContractor.Persistence
     {
         public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
-            var connectionString = @"Server=MUKHA;Database=lab1;Trusted_Connection=True;";
+            var connectionString = @"Server=MUKHA;Database=lab4;Trusted_Connection=True;";
+            //var connectionString = @"Server=LBOR\SQLEXPRESS;Database=rpbd_mukha;Trusted_Connection=True;";
             services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(connectionString);

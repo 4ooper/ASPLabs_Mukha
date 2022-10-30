@@ -9,6 +9,7 @@ using BuildingContractor.Application;
 using BuildingContractor.Application.Common.Mappings;
 using BuildingContractor.Application.Interfaces;
 using BuildingContractor.Persistence;
+using BuildingContractor.WebAPI.Middlewares;
 
 namespace BuildingContractor.WebAPI
 {
@@ -28,6 +29,10 @@ namespace BuildingContractor.WebAPI
             services.AddApplication();
             services.AddPersistence(Configuration);
             services.AddControllers();
+            services.AddControllersWithViews();
+            services.AddControllers().AddNewtonsoftJson(options =>
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+            );
 
             services.AddCors(options =>
             {
@@ -38,6 +43,7 @@ namespace BuildingContractor.WebAPI
                     policy.AllowAnyOrigin();
                 });
             });
+            services.AddSwaggerGen();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -48,12 +54,17 @@ namespace BuildingContractor.WebAPI
             }
 
             app.UseRouting();
+            app.UseSwaggerUI();
+            app.UseSwagger();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");
+            app.UseMiddleware<DbInitializerMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                    "default",
+                    "{controller=Home}/{action=Index}");
             });
         }
     }

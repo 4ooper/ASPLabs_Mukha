@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    a {
+        text-decoration: none;
+        cursor: pointer;
+        transition: 0.3s;
+        font-size: 20px;
+        color: black;
+    }
+    a:hover {
+        color: red;
+        text-decoration: underline;
+    }
+</style>
+
+<div class="container">
+    <h1>Начальная версия страницы приложения</h1>
+    <a href="/producers">Таблица Producer</a>
+    <a href="/aboutcontractor">Таблица AboutContractor</a>
+    <a href="/contractortechnique">Таблица ContractorTechniques</a>
+</div>

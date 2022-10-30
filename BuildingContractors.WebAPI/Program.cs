@@ -8,20 +8,20 @@ namespace BuildingContractor.WebAPI
         {
             var host = CreateHostBuilder(args).Build();
 
-            using (var scope  = host.Services.CreateScope())
-            {
-                var serviceProvider = scope.ServiceProvider;
+            //using (var scope  = host.Services.CreateScope())
+            //{
+            //    var serviceProvider = scope.ServiceProvider;
 
-                try
-                {
-                    var context = serviceProvider.GetRequiredService<AppDbContext>();
-                    DbInitializer.Initialize(context);
-                }
-                catch
-                {
+            //    try
+            //    {
+            //        var context = serviceProvider.GetRequiredService<AppDbContext>();
+            //        DbInitializer.Initialize(context);
+            //    }
+            //    catch
+            //    {
 
-                }
-            }
+            //    }
+            //}
 
             host.Run();
         }
