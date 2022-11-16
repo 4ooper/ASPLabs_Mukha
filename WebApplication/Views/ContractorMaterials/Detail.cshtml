@@ -1,0 +1,56 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "ContractorPages";
+}
+
+<style>
+    form {
+        width: 40%;
+        height: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    input {
+        width: 200px;
+        height: 30px;
+        border: 1px solid black;
+        border-radius: 7px;
+    }
+    button {
+        width: 150px;
+        height: 50px;
+        background-color: transparent;
+        border: 1px solid grey;
+        cursor: pointer;
+        color: grey;
+        transition: 0.3s;
+    }
+    button:hover {
+        background-color: lightgreen;
+    }
+</style>
+
+<form action="/contractormaterials/Update" method="post">
+    <label>Id:<input readonly name="id" value=@Model.detail.id /></label>
+    <label>Name: <input type="text" name="name" value=@Model.detail.name /></label>
+    <label>CreatedDate: <input type="date" name="createdDate" value=@Model.detail.createdDate.ToString("yyyy-MM-dd") /></label>
+    <label>Validaty: <input type="date" name="validaty" value=@Model.detail.validaty.ToString("yyyy-MM-dd") /></label>
+    <label>Producer: 
+       <select name="producer">
+           @foreach (var item in Model.producers)
+           {
+               @if (@item.id == Model.detail.producer.id)
+               {
+                    <option value=@item.id selected>@item.id || @item.name</option>
+                }
+                else
+                {
+                    <option value=@item.id>@item.id || @item.name</option>
+                }
+            }
+       </select>
+    </label>
+    <button type="submit">Сохранить</button>
+</form>

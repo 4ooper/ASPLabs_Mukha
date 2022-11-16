@@ -1,0 +1,44 @@
+﻿@model BuildingContractor.Domain.User
+@{
+}
+
+<style>
+    .auth-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        row-gap: 30px;
+        flex-direction: column;
+    }
+    .auth-link {
+        position:relative;
+        width: 150px;
+        height: 50px;
+        border: 1px solid black;
+        cursor: pointer;
+        text-align: center;
+        font-size: 0.6vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<div class="auth-container">
+     @if (Model == null)
+    {
+    <h1>Вы не авторизованы. Войдите в аккаунт</h1>
+    <a class="auth-link" href="/authenfication/signIn">Войти</a>
+    <a class="auth-link" href="/authenfication/signUp">Зарегистрироваться</a>
+    }
+    else
+    {
+        <h1>Здравствуйте, @Model.Login</h1>
+        <h2>Ваша роль: @Model.Role.Role</h2>
+        @if(@Model.Role.Role == "Admin")
+        {
+            <h2>Вам доступно управление пользователями: <a href="/users">Users</a></h2>
+        }
+        <a class="auth-link" href="/authenfication/logout">Выйти</a>
+    }
+</div>

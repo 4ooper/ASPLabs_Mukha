@@ -1,0 +1,30 @@
+﻿@{
+}
+
+<style>
+    form {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    input {
+        border: 1px solid black;
+    }
+    button {
+        width: 250px;
+        height: 50px;
+        border: 1px solid black;
+        background-color: transparent;
+    }
+</style>
+
+<form method="post" action="/authenfication/SignUp">
+    <h1>Регистрация</h1>
+    <label>Login: <input name="Login"/></label>
+    <label>Password: <input type="password" name="Password"/></label>
+    <button type="submit">Зарегистрироваться</button>
+</form>

@@ -1,0 +1,41 @@
+﻿@model BuildingContractor.Application.ContractorTechnique.Quieres.GetContractorTechniqueDetails.ContractorTechniqueDetailsVm
+@{
+    ViewData["Title"] = "ContractorPages";
+}
+
+<style>
+    form {
+        width: 40%;
+        height: 30%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    input {
+        width: 200px;
+        height: 30px;
+        border: 1px solid black;
+        border-radius: 7px;
+    }
+    button {
+        width: 150px;
+        height: 50px;
+        background-color: transparent;
+        border: 1px solid grey;
+        cursor: pointer;
+        color: grey;
+        transition: 0.3s;
+    }
+    button:hover {
+        background-color: lightgreen;
+    }
+</style>
+
+<form action="/contractortechnique/Update" method="post">
+    <label>Id:<input readonly name="id" value=@Model.id /></label>
+    <label>Name: <input type="text" name="name" value=@Model.name /></label>
+    <label>BuyDate: <input type="text" name="buyDate" value=@Model.buyDate.ToString("yyyy-MM-dd") /></label>
+    <label>Validaty: <input type="text" name="validaty" value=@Model.validaty.ToString("yyyy-MM-dd") /></label>
+    <button type="submit">Сохранить</button>
+</form>

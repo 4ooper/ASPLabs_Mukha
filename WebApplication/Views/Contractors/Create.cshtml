@@ -1,0 +1,29 @@
+﻿@model BuildingContractor.Application.Producers.Quieres.GetProducersList.ProducerListVm;
+@{
+    ViewData["Title"] = "CreateContractorPage";
+}
+
+<style>
+
+    .container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+</style>
+
+<div class="container">
+    <h1>Страница добавления ContractorMaterials</h1>
+
+<form method="post" action="/contractors/Create">
+  <label>Name:
+    <input name="name" />
+  </label>
+  <button type="submit">Save</button>
+</form>
+
+</div>
