@@ -1,0 +1,98 @@
+<div class="wrapper">
+
+  <header>
+    <app-header (menuShow)="nav.togleShow()"></app-header>
+  </header>
+
+  <main>
+               <ngx-datatable
+               class="material"
+              [rows]="ngxDataTableProperties.rows"
+              [columnMode]="ColumnMode.force"
+              [headerHeight]="50"
+              [footerHeight]="50"
+              rowHeight="auto"
+              [externalPaging]="true"
+              [externalSorting]="true"
+              [count]="ngxDataTableProperties.page.totalElements"
+              [offset]="ngxDataTableProperties.page.pageNumber"
+              [limit]="ngxDataTableProperties.page.size"
+              [loadingIndicator]="ngxDataTableProperties.loading"
+              (page)="setPage($event)"
+              (sort)="onSort($event)"
+              [selected]="selected"
+              [selectionType]="SelectionType.single"
+              (click)="onSelect($event)"
+             >
+             <ngx-datatable-column name="#" prop="id"></ngx-datatable-column>
+             <ngx-datatable-column name="Name" prop="name"></ngx-datatable-column>
+
+             <ngx-datatable-column name="CreatedDate">
+              <ng-template let-column="column" ngx-datatable-header-template> {{ column.name }} </ng-template>
+              <ng-template let-value="value" ngx-datatable-cell-template>
+                {{toShortDate(value)}}
+              </ng-template>
+            </ngx-datatable-column>
+
+            <ngx-datatable-column name="Validaty">
+              <ng-template let-column="column" ngx-datatable-header-template> {{ column.name }} </ng-template>
+              <ng-template let-value="value" ngx-datatable-cell-template>
+                {{toShortDate(value)}}
+              </ng-template>
+            </ngx-datatable-column>
+
+            <ngx-datatable-column name="Producer">
+              <ng-template let-column="column" ngx-datatable-header-template> {{ column.name }} </ng-template>
+              <ng-template let-value="value" ngx-datatable-cell-template>
+                {{value.name}}
+              </ng-template>
+            </ngx-datatable-column>
+
+             </ngx-datatable>
+
+    <div class="nav-container">
+      <nav>
+        <a [routerLink]="'/contractorMaterials'" [queryParams]="{type: 'add'}">Добавить</a>
+      </nav>
+    </div>
+
+  </main>
+
+</div>
+
+
+<div class="add-wrapper add-background" *ngIf="addVisibility" (click)="checkClick($event)">
+  <div class="container" [formGroup]="form" [@expandedPanel]="addAnimationState">
+   <h1>Добавление</h1>
+   <label>Name: <input type="text" formControlName="name"></label>
+   <label>CreatedDate: <input type="date" formControlName="createdDate"></label>
+   <label>Validaty: <input type="date" formControlName="validaty"></label>
+   <label>Producer: <input type="text" matInput [matAutocomplete]="auto" (input)="onInputProducer(inputProducer.value)" #inputProducer [value]="AddSelectedProducer?.name" #input></label>
+    <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayWith">
+      <mat-option *ngFor="let option of searchProducers" [value]="option" (onSelectionChange)="selectionChange($event)">
+        {{option.name}}
+      </mat-option>
+    </mat-autocomplete>
+   <button [disabled]="form.invalid" (click)="Create()">Сохранить</button>
+  </div>
+</div>
+
+<div class="edit-wrapper edit-background" (click)="checkClick($event)" *ngIf="editVisibility">
+  <div class="container" [formGroup]="form">
+    <label>Name: <input type="text" formControlName="name"></label>
+    <label>CreatedDate: <input type="date" formControlName="createdDate"></label>
+    <label>Validaty: <input type="date" formControlName="validaty"></label>
+    <label>Producer: <input type="text" matInput [matAutocomplete]="auto" (input)="onInputProducer(inputProducer.value)" #inputProducer [value]="AddSelectedProducer?.name" #input></label>
+    <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayWith">
+      <mat-option *ngFor="let option of searchProducers" [value]="option" (onSelectionChange)="selectionChange($event)">
+        {{option.name}}
+      </mat-option>
+    </mat-autocomplete>
+    <div class="buttons">
+      <button class="button save" (click)="Update()">Сохранить</button>
+      <button class="button delete" (click)="Delete()">Удалить</button>
+    </div>
+  </div>
+</div>
+
+<app-nav #nav></app-nav>

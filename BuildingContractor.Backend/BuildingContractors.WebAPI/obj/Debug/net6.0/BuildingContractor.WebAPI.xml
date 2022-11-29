@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BuildingContractor.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ConctractorMaterialController.GetAll(System.Int32)">
+            <summary>
+            Get the list of ContractorMaterials
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractorMaterial
+            </remarks>
+            <param name="page">Number of page</param>
+            <returns>Return ConctractorMaterialVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ConctractorMaterialController.Get(System.Int32)">
+            <summary>
+            Gets the contractor material by Id
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractorMaterial/0
+            </remarks>
+            <param name="id">Contractor Material Id</param>
+            <returns>Return ContractorMaterialDetailsVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ConctractorMaterialController.Create(BuildingContractor.WebAPI.Models.CreateContractorMaterialDto)">
+            <summary>
+            Create Contractor Material
+            </summary>
+            <remarks>
+            Sample request:
+            POST /contractorMaterial
+            {
+                name: "Test"
+            }
+            </remarks>
+            <param name="createContractorMaterial">CreateContractorMaterialDto object</param>
+            <returns>Return Contractor Material</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ConctractorMaterialController.Update(BuildingContractor.WebAPI.Models.UpdateContractorMaterialDto)">
+            <summary>
+            Update Contractor
+            </summary>
+            <remarks>
+            Sample request:
+            PUT /contractor
+            {
+                id: 0,
+                name: "Test2"
+            }
+            </remarks>
+            <param name="updateContractorMaterial">UpdateContractorDto object</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ConctractorMaterialController.Delete(System.Int32)">
+            <summary>
+            Delete Contractor
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /contractor/0
+            </remarks>
+            <param name="id">Contractor Id</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorController.GetAll(System.Int32)">
+            <summary>
+            Get the list of Contractors
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractor
+            </remarks>
+            <param name="page">Number of page</param>
+            <returns>Return ContractorListVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorController.Get(System.Int32)">
+            <summary>
+            Gets the contractor by Id
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractor/0
+            </remarks>
+            <param name="id">Contractor Id</param>
+            <returns>Return ContractorDetailsVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorController.Create(BuildingContractor.WebAPI.Models.CreateContractorDto)">
+            <summary>
+            Create Contractor
+            </summary>
+            <remarks>
+            Sample request:
+            POST /contractor
+            {
+                name: "Test"
+            }
+            </remarks>
+            <param name="createContractorDto">CreateContractorDto object</param>
+            <returns>Return Contractor</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorController.Update(BuildingContractor.WebAPI.Models.UpdateContractorDto)">
+            <summary>
+            Update Contractor
+            </summary>
+            <remarks>
+            Sample request:
+            PUT /contractor
+            {
+                id: 0,
+                name: "Test2"
+            }
+            </remarks>
+            <param name="updateContractorDto">UpdateContractorDto object</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorController.Delete(System.Int32)">
+            <summary>
+            Delete Contractor
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /contractor/0
+            </remarks>
+            <param name="id">Contractor Id</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorTechniqueController.GetAll(System.Int32)">
+            <summary>
+            Get the list of ContractorTechniques
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractorTechnique
+            </remarks>
+            <param name="page">Number of page</param>
+            <returns>Return ContractorTechniqueListVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorTechniqueController.Get(System.Int32)">
+            <summary>
+            Gets the contractorTechnique by Id
+            </summary>
+            <remarks>
+            Sample request:
+            GET /contractorTechnique/0
+            </remarks>
+            <param name="id">ContractorTechnique Id</param>
+            <returns>Return ContractorTechniqueDetailsVm</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorTechniqueController.Create(BuildingContractor.WebAPI.Models.CreateContractorTechniqueDto)">
+            <summary>
+            Create ContractorTechnique
+            </summary>
+            <remarks>
+            Sample request:
+            POST /ContractorTechnique
+            {
+                name: "Test",
+                buyDate: "2020-10-12",
+                validaty: "2025-10-12"
+            }
+            </remarks>
+            <param name="createContractorTechnique">CreateContractorTechniqueDto object</param>
+            <returns>Return ContractorTechnique</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorTechniqueController.Update(BuildingContractor.WebAPI.Models.UpdateContractorTechniqueDto)">
+            <summary>
+            Update ContractorTechnique
+            </summary>
+            <remarks>
+            Sample request:
+            PUT /ContractorTechnique
+            {
+                id: 0,
+                name: "Test2"
+            }
+            </remarks>
+            <param name="updateContractorTechnique">UpdateContractorTechniqueDto object</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+        <member name="M:BuildingContractor.WebAPI.Controllers.ContractorTechniqueController.Delete(System.Int32)">
+            <summary>
+            Delete ContractorTechnique
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /ContractorTechnique/0
+            </remarks>
+            <param name="id">ContractorTechnique Id</param>
+            <returns>Return NoContent</returns>
+            <response code="200">Success</response>
+            <response code="401">Unauthorized</response>
+            <response code="400">Bad request</response>
+        </member>
+    </members>
+</doc>

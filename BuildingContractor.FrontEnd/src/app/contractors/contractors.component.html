@@ -1,0 +1,41 @@
+<div class="wrapper">
+
+  <header>
+    <app-header (menuShow)="nav.togleShow()"></app-header>
+  </header>
+
+  <main>
+
+    <app-table [columns]="ngxDataTableProperties.columns" [loading]="ngxDataTableProperties.loading" [rows]="ngxDataTableProperties.rows"
+               [page]="ngxDataTableProperties.page" (getPage)="setPage($event)" (select)="getOne($event)"></app-table>
+
+    <div class="nav-container">
+      <nav>
+        <a [routerLink]="'/contractors'" [queryParams]="{type: 'add'}">Добавить</a>
+      </nav>
+    </div>
+
+  </main>
+
+</div>
+
+
+<div class="add-wrapper add-background" *ngIf="addVisibility" (click)="checkClick($event)">
+  <div class="container" [formGroup]="form" [@expandedPanel]="addAnimationState">
+   <h1>Добавление</h1>
+   <label>Name: <input type="text" formControlName="name"></label>
+   <button [disabled]="form.invalid" (click)="Create()">Сохранить</button>
+  </div>
+</div>
+
+<div class="edit-wrapper edit-background" *ngIf="editVisibility" (click)="checkClick($event)">
+  <div class="container" [formGroup]="form">
+    <input type="text" formControlName="name">
+    <div class="buttons">
+      <button class="button save" (click)="Update()">Сохранить</button>
+      <button class="button delete" (click)="Delete()">Удалить</button>
+    </div>
+  </div>
+</div>
+
+<app-nav #nav></app-nav>

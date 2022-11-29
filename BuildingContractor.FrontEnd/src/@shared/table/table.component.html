@@ -1,0 +1,160 @@
+<!-- <div class="wrapper">
+  <table> -->
+    <!-- <div class="table-navigation">
+      <p class="arrow left-arrow"></p>
+    </div> -->
+    <!-- <tr>
+      <th>No</th>
+      <th>No</th>
+      <th>No</th>
+      <th>No</th>
+      <th>No</th>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="row">
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+      <td>Test</td>
+    </tr>
+    <tr class="pagination-wrapper">
+      <td></td>
+      <td></td>
+      <td>Page:</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</div> -->
+
+<div class="wrapper">
+  <div class="container">
+    <ngx-datatable
+    class="material"
+    [rows]="rows"
+    [columns]="columns"
+    [columnMode]="ColumnMode.force"
+    [headerHeight]="50"
+    [footerHeight]="50"
+    rowHeight="auto"
+    [externalPaging]="true"
+    [externalSorting]="true"
+    [count]="page.totalElements"
+    [offset]="page.pageNumber"
+    [limit]="page.size"
+    [loadingIndicator]="loading"
+    (page)="setPage($event)"
+    (sort)="onSort($event)"
+    [selected]="selected"
+    [selectionType]="SelectionType.single"
+    (click)="onSelect($event)"
+  >
+
+  <ngx-datatable-column name="Producer">
+    <ng-template let-column="column" ngx-datatable-header-template> Holla! {{ column.name }} </ng-template>
+    <ng-template let-value="value" ngx-datatable-cell-template>
+      Hi: <strong>{{ value }}</strong>
+    </ng-template>
+  </ngx-datatable-column>
+
+  </ngx-datatable>
+  </div>
+</div>

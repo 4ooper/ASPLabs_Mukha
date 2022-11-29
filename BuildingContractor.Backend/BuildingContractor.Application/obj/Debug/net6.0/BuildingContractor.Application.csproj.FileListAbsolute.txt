@@ -1,0 +1,51 @@
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.deps.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.runtimeconfig.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.AssemblyReference.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfoInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfo.cs
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CoreCompileInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CopyComplete
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\refint\BuildingContractor.Application.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.genruntimeconfig.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\ref\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.deps.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.runtimeconfig.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CopyComplete
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\refint\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.genruntimeconfig.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\ref\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.deps.json
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.runtimeconfig.json
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Application.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.dll
+E:\BuildingContractor.Backend\BuildingContractor.Application\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.AssemblyReference.cache
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfoInputs.cache
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.AssemblyInfo.cs
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CoreCompileInputs.cache
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.csproj.CopyComplete
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\refint\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\BuildingContractor.Application.genruntimeconfig.cache
+E:\BuildingContractor.Backend\BuildingContractor.Application\obj\Debug\net6.0\ref\BuildingContractor.Application.dll

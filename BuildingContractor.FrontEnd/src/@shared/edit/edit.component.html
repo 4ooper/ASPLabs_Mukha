@@ -1,0 +1,9 @@
+<div class="wrapper background" *ngIf="visible">
+  <div class="container" [formGroup]="form">
+    <input [type]="item.type" [value]="item.value" [formControlName]="item.controlName" *ngFor="let item of displayData">
+    <div class="buttons">
+      <button class="button save" (click)="onSave()">Сохранить</button>
+      <button class="button delete" (click)="onDelete()">Удалить</button>
+    </div>
+  </div>
+</div>

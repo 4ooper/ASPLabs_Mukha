@@ -1,0 +1,302 @@
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\libman.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.exe
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.deps.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.runtimeconfig.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.AssemblyReference.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfoInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfo.cs
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CoreCompileInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\scopedcss\bundle\BuildingContractor.WebAPI.styles.css
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CopyComplete
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\refint\BuildingContractor.WebAPI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.genruntimeconfig.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\ref\BuildingContractor.WebAPI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\libman.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.exe
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.deps.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.runtimeconfig.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\scopedcss\bundle\BuildingContractor.WebAPI.styles.css
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CopyComplete
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\refint\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.genruntimeconfig.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\ref\BuildingContractor.WebAPI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\libman.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.exe
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.deps.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.runtimeconfig.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.pdb
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.pdb
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.AssemblyReference.cache
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfoInputs.cache
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfo.cs
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CoreCompileInputs.cache
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\scopedcss\bundle\BuildingContractor.WebAPI.styles.css
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CopyComplete
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\refint\BuildingContractor.WebAPI.dll
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.pdb
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.genruntimeconfig.cache
+E:\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\ref\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\libman.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.exe
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.deps.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.runtimeconfig.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.pdb
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.WebAPI.xml
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\scopedcss\bundle\BuildingContractor.WebAPI.styles.css
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.csproj.CopyComplete
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\refint\BuildingContractor.WebAPI.dll
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.xml
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.pdb
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\BuildingContractor.WebAPI.genruntimeconfig.cache
+D:\5 сем\РПИБД\lab6\BuildingContractor.Backend\BuildingContractors.WebAPI\obj\Debug\net6.0\ref\BuildingContractor.WebAPI.dll

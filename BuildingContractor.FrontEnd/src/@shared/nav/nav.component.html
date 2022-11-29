@@ -1,0 +1,7 @@
+<div class="wrapper" [style.display]='display' (click)="togleShow()">
+  <div class="container" [@openClose]="animationState"(@openClose.done)="done()">
+    <a href="/producers">Producers</a>
+    <a href="/contractors">Contractors</a>
+    <a href="/contractorMaterials">Contractor Materials</a>
+  </div>
+</div>

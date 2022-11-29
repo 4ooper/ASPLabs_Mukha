@@ -1,0 +1,10 @@
+<div class="wrapper background" *ngIf="visible" (click)="checkClick($event)">
+  <div class="container" [formGroup]="form" [@expandedPanel]="animationState">
+   <h1>Добавление</h1>
+   <label *ngFor="let item of displayData">
+    {{item.name}}:
+      <input [type]="item.type" formControlName={{item.controlName}}>
+   </label>
+   <button (click)="checkData()" [disabled]="form.invalid">Сохранить</button>
+  </div>
+</div>
