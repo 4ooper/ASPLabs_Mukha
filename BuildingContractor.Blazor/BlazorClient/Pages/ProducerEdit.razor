@@ -1,0 +1,224 @@
+﻿@page "/producer/{id}/"
+@using System.Text.Json
+@using System.Text
+@using System.Text.Json.Serialization
+@inject IHttpClientFactory ClientFactory
+@inject IJSRuntime JsRuntime
+@inject NavigationManager NavManager
+
+@if (producer == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="page" style="width: 100%; display: grid; grid: auto / 1fr 1fr 1fr;">
+        <div>
+            <label>Name: <input @bind="@producer.name"/></label><br />
+            <button @onclick="UpdateProducer">Save</button>
+        </div>
+        <div>
+            <p>Materials:</p>
+            <div style="width: 100%; height: 500px; overflow: auto; display: flex; flex-direction: column;  border: 1px solid black; row-gap: 20px;">
+                @foreach (var material in producer.materials)
+                {
+                    <div style="width: 100%; height: 30px; display: flex; justify-content: space-between; align-items: center;">
+                        <span>@material.id</span>
+                        <span>@material.name</span>
+                        <span>@material.creationDate.ToShortDateString()</span>
+                        <span>@material.valid.ToShortDateString()</span>
+                        <button @onclick="() => openMaterialEditForm(material.id, material.name, material.creationDate, material.valid)">Изменить</button>
+                        <button @onclick="() => DeleteMaterial(material.id)">Удалить</button>
+                    </div>
+                }
+            </div>
+            <button @onclick="toggleMaterialAddForm">Add</button>
+        </div>
+        @if(isMaterialAddFormVisible == true)
+        {
+            <div style="width: 100%; display: flex; flex-direction: column; row-gap: 20px;">
+                <input type="text" @bind=@materialName>
+                <input type="date" @bind=@creationDate>
+                <input type="date" @bind=@valid>
+                <button @onclick="AddMaterial">Add</button>
+            </div>
+        }
+
+        @if(isMaterialEditFormVisible == true)
+        {
+            <div style="width: 100%; display: flex; flex-direction: column; row-gap: 20px;">
+                <input type="number" @bind=@materialId readonly>
+                <input type="text" @bind=@materialName>
+                <input type="date" @bind=@creationDate>
+                <input type="date" @bind=@valid>
+                <button @onclick="UpdateMaterial">Save</button>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string id { get; set; }
+
+    public bool isMaterialEditFormVisible { get; set; } = false;
+    public bool isMaterialAddFormVisible { get; set; } = false;
+
+    public int? materialId { get; set; }
+    public string materialName { get; set; }
+    public DateTime? creationDate{ get; set; } 
+    public DateTime? valid { get; set; }
+
+    public Producer? producer { get; set; } = null;
+
+    public class Producer
+    {
+        public int id { get; set; }
+        public string name { get; set; }
+        public List<Material> materials { get; set; }
+    }
+
+    public class Material
+    {
+        public int id { get; set; }
+        public string name { get; set; }
+        public DateTime creationDate { get; set; }
+        public DateTime valid { get; set; }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        this.producer = await this.getData();
+    }
+
+    public void openMaterialEditForm(int id, string name, DateTime CreationDate, DateTime Valid)
+    {
+        this.isMaterialAddFormVisible = false;
+        this.isMaterialEditFormVisible = true;
+        this.materialId = id;
+        this.materialName = name;
+        this.creationDate = CreationDate;
+        this.valid = Valid;
+    }
+
+    public void closeMaterialEditForm()
+    {
+        this.isMaterialAddFormVisible = false;
+        this.isMaterialEditFormVisible = false;
+        this.materialId = null;
+        this.materialName = null;
+        this.creationDate = null;
+        this.valid = null;
+    }
+
+    public async Task UpdateMaterial()
+    {
+        if(isMaterialValid(materialName, creationDate, valid) == false)
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Ошибка!");
+            return;
+        }
+
+        var request = new HttpRequestMessage(HttpMethod.Put, $"https://localhost:7067/api/material/");
+        var postBody = new { Id = materialId, Name = materialName, CreationDate = creationDate, Valid = valid, Producer = new { Name = this.producer.name, Id = this.producer.id } };
+        request.Content = new StringContent(JsonSerializer.Serialize(postBody), Encoding.UTF8, "application/json");
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        if (response.IsSuccessStatusCode)
+        {
+            this.producer = await this.getData();
+            this.closeMaterialEditForm();
+        }
+    }
+
+    public async Task UpdateProducer()
+    {
+        //if(this.producer.name.Length > 0)
+        //{
+        //    await JsRuntime.InvokeVoidAsync("alert", "Ошибка!");
+        //    return;
+        //}
+
+        var request = new HttpRequestMessage(HttpMethod.Put, $"https://localhost:7067/api/producer/");
+        var postBody = new { Id = this.producer.id, Name = this.producer.name };
+        request.Content = new StringContent(JsonSerializer.Serialize(postBody), Encoding.UTF8, "application/json");
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        if (response.IsSuccessStatusCode)
+        {
+            NavManager.NavigateTo("/producers");
+        }
+    }
+
+    public void toggleMaterialAddForm()
+    {
+        this.isMaterialEditFormVisible = false;
+        this.isMaterialAddFormVisible = !this.isMaterialAddFormVisible;
+        this.materialName = null;
+        this.creationDate = null;
+        this.valid = null;
+    }
+
+    public async Task DeleteMaterial(int id)
+    {
+        var request = new HttpRequestMessage(HttpMethod.Delete, $"https://localhost:7067/api/material/{id}");
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        if (response.IsSuccessStatusCode)
+        {
+            this.producer = await this.getData();
+        }
+    }
+
+    public async Task AddMaterial()
+    {
+        if(isMaterialValid(materialName, creationDate, valid) == false)
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Ошибка!");
+            return;
+        }
+
+        var request = new HttpRequestMessage(HttpMethod.Post,
+            $"https://localhost:7067/api/material/");
+
+
+        var postBody = new { Name = materialName, CreationDate = creationDate, Valid = valid, Producer = new { Name = this.producer.name, Id = this.producer.id } };
+        request.Content = new StringContent(JsonSerializer.Serialize(postBody), Encoding.UTF8, "application/json");
+
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        if (response.IsSuccessStatusCode)
+        {
+            this.producer = await this.getData();
+            this.toggleMaterialAddForm();
+        }
+    }
+    
+    private bool isMaterialValid(string name, DateTime? creationDate, DateTime? valid)
+    {
+        return (name.Length > 0 && name.Length <= 100) && (creationDate != null) && (valid != null);
+    }
+
+
+    private async Task<Producer> getData()
+    {
+        var request = new HttpRequestMessage(HttpMethod.Get,
+            $"https://localhost:7067/api/producer/{this.id}");
+
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        Producer? temp = null;
+        if (response.IsSuccessStatusCode)
+        {
+            using var responseStream = await response.Content.ReadAsStreamAsync();
+            temp = await JsonSerializer.DeserializeAsync
+                <Producer>(responseStream);
+        }
+        return temp;
+    }
+}

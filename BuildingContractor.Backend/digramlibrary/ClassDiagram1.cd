@@ -1,0 +1,865 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuildingContractor.Application.Buildings.Commands.CreateBuilding.CreateBuildingCommand" Collapsed="true">
+    <Position X="47.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Commands.CreateBuilding.CreateBuildingCommandHandler" Collapsed="true">
+    <Position X="49.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Commands.DeleteBuilding.DeleteBuildingCommand" Collapsed="true">
+    <Position X="38.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Commands.DeleteBuilding.DeleteBuildingCommandHandler" Collapsed="true">
+    <Position X="40.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Commands.UpdateBuilding.UpdateBuildingCommand" Collapsed="true">
+    <Position X="54.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Commands.UpdateBuilding.UpdateBuildingCommandHandler" Collapsed="true">
+    <Position X="33.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingDetails.GetBuildingDetailsContractorDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingDetails.GetBuildingDetailsCustomerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="51" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingDetails.GetBuildingDetailsQuery" Collapsed="true">
+    <Position X="52.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingDetails.GetBuildingDetailsQueryHandler" Collapsed="true">
+    <Position X="54.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingDetails.GetBuildingDetailsVm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingFilterList.GetBuildingFilterListQuery" Collapsed="true">
+    <Position X="35.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingFilterList.GetBuildingFilterListQueryHandler" Collapsed="true">
+    <Position X="37" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingFilterList.GetBuildingFilterListVm" Collapsed="true">
+    <Position X="38.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingFilterList.GetBuildingFilterLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingList.GetBuildingListLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingList.GetBuildingListQuery" Collapsed="true">
+    <Position X="44" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingList.GetBuildingListQueryHandler" Collapsed="true">
+    <Position X="45.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingList.GetBuildingListVm" Collapsed="true">
+    <Position X="47.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingSearchList.GetBuildingSearchListLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingSearchList.GetBuildingSearchListQuery" Collapsed="true">
+    <Position X="51" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingSearchList.GetBuildingSearchListQueryHandler" Collapsed="true">
+    <Position X="52.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Buildings.Quieres.GetBuildingSearchList.GetBuildingSearchListVm" Collapsed="true">
+    <Position X="54.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Common.Exceptions.NotFoundException" Collapsed="true">
+    <Position X="42.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Common.Mappings.AssemblyMappingProfile" Collapsed="true">
+    <Position X="33.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.CreateContractor.CreateContractorCommand" Collapsed="true">
+    <Position X="51" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.CreateContractor.CreateContractorCommandHandler" Collapsed="true">
+    <Position X="52.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.DeleteContractor.DeleteContractorCommand" Collapsed="true">
+    <Position X="42.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.DeleteContractor.DeleteContractorCommandHandler" Collapsed="true">
+    <Position X="44" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.UpdateContractor.UpdateContractorCommand" Collapsed="true">
+    <Position X="35.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Commands.UpdateContractor.UpdateContractorCommandHandler" Collapsed="true">
+    <Position X="37" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.ContractorDetailsVm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.ContractorStockDetailsDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.ContractorStockMaterialDetailsDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.ContractorTechnicDetailsDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.GetContractorDetailsQuery" Collapsed="true">
+    <Position X="33.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorDetails.GetContractorDetailsQueryHandler" Collapsed="true">
+    <Position X="35.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorFilterList.GetContractorFilterListLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorFilterList.GetContractorFilterListQuery" Collapsed="true">
+    <Position X="38.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorFilterList.GetContractorFilterListQueryHandler" Collapsed="true">
+    <Position X="40.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorFilterList.GetContractorFilterListVm" Collapsed="true">
+    <Position X="42.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorList.ContractorListVm" Collapsed="true">
+    <Position X="37" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorList.ContractorLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorList.GetContractorListQuery" Collapsed="true">
+    <Position X="44" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorList.GetContractorListQueryHandler" Collapsed="true">
+    <Position X="45.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorSearchList.ContractorSearchListVm" Collapsed="true">
+    <Position X="40.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorSearchList.GetContractorSearchListQuery" Collapsed="true">
+    <Position X="47.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Contractors.Quieres.GetContractorSearchList.GetContractorSearchListQueryHandler" Collapsed="true">
+    <Position X="49.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.CreateCustomer.CreateCustomerCommand" Collapsed="true">
+    <Position X="54.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.CreateCustomer.CreateCustomerCommandHandler" Collapsed="true">
+    <Position X="33.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.DeleteCustomer.DeleteCustomerCommand" Collapsed="true">
+    <Position X="45.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.DeleteCustomer.DeleteCustomerCommandHandler" Collapsed="true">
+    <Position X="47.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.UpdateCustomer.UpdateCustomerCommand" Collapsed="true">
+    <Position X="38.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Commands.UpdateCustomer.UpdateCustomerCommandHandler" Collapsed="true">
+    <Position X="40.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerDetails.CustomerDetailsVm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerDetails.GetCustomerDetailsQueryHandler" Collapsed="true">
+    <Position X="51" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerDetails.GetCustomersDetailsQuery" Collapsed="true">
+    <Position X="40.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerFilterList.GetCustomerFilterListLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerFilterList.GetCustomerFilterListQuery" Collapsed="true">
+    <Position X="54.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerFilterList.GetCustomerFilterListQueryHandler" Collapsed="true">
+    <Position X="33.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerFilterList.GetCustomerFilterListVm" Collapsed="true">
+    <Position X="35.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerList.CustomerListVm" Collapsed="true">
+    <Position X="35.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerList.CustomerLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerList.GetCustomerListQuery" Collapsed="true">
+    <Position X="37" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerList.GetCustomerListQueryHandler" Collapsed="true">
+    <Position X="38.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerSearchList.GetCustomerSearchListQuery" Collapsed="true">
+    <Position X="42.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerSearchList.GetCustomerSearchListQueryHandler" Collapsed="true">
+    <Position X="44" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerSearchList.GetCustomerSearchListVm" Collapsed="true">
+    <Position X="45.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Customers.Quieres.GetCustomerSearchList.GetCustomerSearchLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.CreateMaterial.CreateMaterialCommand" Collapsed="true">
+    <Position X="35.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.CreateMaterial.CreateMaterialCommandHandler" Collapsed="true">
+    <Position X="37" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.DeleteMaterial.DeleteMaterialCommand" Collapsed="true">
+    <Position X="49.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.DeleteMaterial.DeleteMaterialCommandHandler" Collapsed="true">
+    <Position X="51" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.UpdateMaterial.UpdateMaterialCommand" Collapsed="true">
+    <Position X="42.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Commands.UpdateMaterial.UpdateMaterialCommandHandler" Collapsed="true">
+    <Position X="44" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialDetails.GetMaterialDetailsQuery" Collapsed="true">
+    <Position X="49.25" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialDetails.GetMaterialDetailsQueryHandler" Collapsed="true">
+    <Position X="51" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialDetails.MaterialDetailsVm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialSearchList.GetMaterialSearchListQuery" Collapsed="true">
+    <Position X="52.75" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialSearchList.GetMaterialSearchListQueryHandler" Collapsed="true">
+    <Position X="54.5" Y="18.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialSearchList.MaterialSearchListVm" Collapsed="true">
+    <Position X="38.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialSearchList.MaterialSearchLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Materials.Quieres.GetMaterialSearchList.ProducerMaterialSearchLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="49.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Commands.CreatePhoto.CreatePhotoCommand" Collapsed="true">
+    <Position X="38.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Commands.CreatePhoto.CreatePhotoCommandHandler" Collapsed="true">
+    <Position X="40.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Commands.DeletePhoto.DeletePhotoCommand" Collapsed="true">
+    <Position X="52.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Commands.DeletePhoto.DeletePhotoCommandHandler" Collapsed="true">
+    <Position X="54.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Quieres.GetPhotosByBuilding.GetPhotoByBuildingListVm" Collapsed="true">
+    <Position X="33.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Quieres.GetPhotosByBuilding.GetPhotoByBuildingLookupDto" Collapsed="true">
+    <Position X="35.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Quieres.GetPhotosByBuilding.GetPhotoByBuildingQuery" Collapsed="true">
+    <Position X="37" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Photos.Quieres.GetPhotosByBuilding.GetPhotoByBuildingQueryHandler" Collapsed="true">
+    <Position X="38.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.CreateProducer.CreateProducerCommand" Collapsed="true">
+    <Position X="42.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.CreateProducer.CreateProducerCommandHandler" Collapsed="true">
+    <Position X="44" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.DeleteProducer.DeleteProducerCommand" Collapsed="true">
+    <Position X="33.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.DeleteProducer.DeleteProducerCommandHandler" Collapsed="true">
+    <Position X="35.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.UpdateProducer.UpdateProducerCommand" Collapsed="true">
+    <Position X="45.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Commands.UpdateProducer.UpdateProducerCommandHandler" Collapsed="true">
+    <Position X="47.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersDetail.GetProducerDetailsMaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersDetail.GetProducerDetailsQuery" Collapsed="true">
+    <Position X="42.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersDetail.GetProducerDetailsQueryHandle" Collapsed="true">
+    <Position X="44" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersDetail.ProducerDetailsVm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="44" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersList.GetProducerListQuery" Collapsed="true">
+    <Position X="45.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersList.GetProducerListQueryHandle" Collapsed="true">
+    <Position X="47.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersList.ProducerListVm" Collapsed="true">
+    <Position X="45.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersList.ProducerLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersSearchList.GetProducerSearchListQuery" Collapsed="true">
+    <Position X="49.25" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersSearchList.GetProducerSearchListQueryHandler" Collapsed="true">
+    <Position X="51" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersSearchList.ProducerSearchListVm" Collapsed="true">
+    <Position X="51" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProducersSearchList.ProducerSearchLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProudersFilterList.GetProducersFilterListLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.75" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProudersFilterList.GetProducersFilterListQuery" Collapsed="true">
+    <Position X="54.5" Y="19.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProudersFilterList.GetProducersFilterListQueryHandler" Collapsed="true">
+    <Position X="33.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Producers.Quieres.GetProudersFilterList.GetProducersFilterListVm" Collapsed="true">
+    <Position X="35.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.CreateProvidedWork.CreateProvidedWorkCommand" Collapsed="true">
+    <Position X="45.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.CreateProvidedWork.CreateProvidedWorkCommandHandler" Collapsed="true">
+    <Position X="47.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.DeleteProvidedWork.DeleteProvidedWorkCommand" Collapsed="true">
+    <Position X="37" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.DeleteProvidedWork.DeleteProvidedWorkCommandHandler" Collapsed="true">
+    <Position X="38.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.UpdateProvidedWork.UpdateProvidedWorkCommand" Collapsed="true">
+    <Position X="49.25" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Commands.UpdateProvidedWork.UpdateProvidedWorkCommandHandler" Collapsed="true">
+    <Position X="51" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Queieres.GetProvidedWorkByBuilding.GetProvidedWorkByBuildingListVm" Collapsed="true">
+    <Position X="37" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Queieres.GetProvidedWorkByBuilding.GetProvidedWorkByBuildingLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Queieres.GetProvidedWorkByBuilding.GetProvidedWorkByBuildingQuery" Collapsed="true">
+    <Position X="40.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.ProvidedWorks.Queieres.GetProvidedWorkByBuilding.GetProvidedWorkByBuildingQueryHandler" Collapsed="true">
+    <Position X="42.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.CreateStock.CreateStockCommand" Collapsed="true">
+    <Position X="49.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.CreateStock.CreateStockCommandHandler" Collapsed="true">
+    <Position X="51" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.DeleteStock.DeleteStockCommand" Collapsed="true">
+    <Position X="40.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.DeleteStock.DeleteStockCommandHandler" Collapsed="true">
+    <Position X="42.25" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.UpdateStock.UpdateStockCommand" Collapsed="true">
+    <Position X="52.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Commands.UpdateStock.UpdateStockCommandHandler" Collapsed="true">
+    <Position X="54.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Quieres.GetStockByContractorList.GetStockByContractorListVm" Collapsed="true">
+    <Position X="44" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Quieres.GetStockByContractorList.GetStockByContractorLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Quieres.GetStockByContractorList.GetStockByContractorMaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="47.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Quieres.GetStockByContractorList.GetStockByContractorQuery" Collapsed="true">
+    <Position X="49.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Stocks.Quieres.GetStockByContractorList.GetStockByContractorQueryHandler" Collapsed="true">
+    <Position X="51" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.CreateTechnic.CreateTechnicCommand" Collapsed="true">
+    <Position X="52.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.CreateTechnic.CreateTechnicCommandHandler" Collapsed="true">
+    <Position X="54.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.DeleteTechnic.DeleteTechnicCommand" Collapsed="true">
+    <Position X="44" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.DeleteTechnic.DeleteTechnicCommandHandler" Collapsed="true">
+    <Position X="45.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.UpdateTechnic.UpdateTechnicCommand" Collapsed="true">
+    <Position X="33.5" Y="23.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Commands.UpdateTechnic.UpdateTechnicCommandHandler" Collapsed="true">
+    <Position X="35.25" Y="23.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Quieres.GetTechnicByContractorList.GetTechnicByContractorListVm" Collapsed="true">
+    <Position X="52.75" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Quieres.GetTechnicByContractorList.GetTechnicByContractorLookupDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="54.5" Y="20.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Quieres.GetTechnicByContractorList.GetTechnicByContractorQuery" Collapsed="true">
+    <Position X="33.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.Technics.Quieres.GetTechnicByContractorList.GetTechnicByContractorQueryHandler" Collapsed="true">
+    <Position X="35.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Application.DependencyInjection" Collapsed="true">
+    <Position X="47.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Building" Collapsed="true">
+    <Position X="54.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Contractor" Collapsed="true">
+    <Position X="56.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Customer" Collapsed="true">
+    <Position X="58.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Material" Collapsed="true">
+    <Position X="54.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Photo" Collapsed="true">
+    <Position X="56.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Producer" Collapsed="true">
+    <Position X="58.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.ProvidedWork" Collapsed="true">
+    <Position X="54.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Stock" Collapsed="true">
+    <Position X="56.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Domain.Technic" Collapsed="true">
+    <Position X="58.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.AppDbContext" Collapsed="true">
+    <Position X="54.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.DbInitializer" Collapsed="true">
+    <Position X="56.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.DependencyInjection" Collapsed="true">
+    <Position X="58.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.BuildingConfiguration" Collapsed="true">
+    <Position X="54.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.ContractorConfiguration" Collapsed="true">
+    <Position X="58.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.MaterialConfiguration" Collapsed="true">
+    <Position X="56.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.ProducerConfiguration" Collapsed="true">
+    <Position X="56.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.ProvidedWorkConfiguration" Collapsed="true">
+    <Position X="58.25" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.StockConfiguration" Collapsed="true">
+    <Position X="54.75" Y="8" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.Persistence.EntityTypeConfigurations.TechnicConfiguration" Collapsed="true">
+    <Position X="54.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.BaseController" Collapsed="true">
+    <Position X="42.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.BuildingController" Collapsed="true">
+    <Position X="36" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.ContractorController" Collapsed="true">
+    <Position X="40.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.CustomerController" Collapsed="true">
+    <Position X="45" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.MaterialController" Collapsed="true">
+    <Position X="49.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.PhotoController" Collapsed="true">
+    <Position X="51.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.ProducerController" Collapsed="true">
+    <Position X="33.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.ProvidedWorkController" Collapsed="true">
+    <Position X="38.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.StockController" Collapsed="true">
+    <Position X="42.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Controllers.TechnicController" Collapsed="true">
+    <Position X="47.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.BuildingDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.BuildingFilterDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.ContractorDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateBuildingDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateContractorDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateCustomerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateMaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreatePhotoDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateProducerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateProvidedWorkDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateStockDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CreateTechnicDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.CustomerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.MaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Right" Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.ProducerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.ProducerMaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateBuildingDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateContractorDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateCustomerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateMaterialDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateProducerDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateProvidedWorkDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="42.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateStockDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Models.UpdateTechnicDto" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Program" Collapsed="true">
+    <Position X="40.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="BuildingContractor.WebAPI.Startup" Collapsed="true">
+    <Position X="42.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="BuildingContractor.Application.Common.Mappings.IMapWith&lt;T&gt;" Collapsed="true">
+    <Position X="33.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="BuildingContractor.Application.Interfaces.INotesDbContext" Collapsed="true">
+    <Position X="35.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

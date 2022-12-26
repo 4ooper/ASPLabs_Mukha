@@ -1,0 +1,1642 @@
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.pdb
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.rkzuw62l89.js
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.pdb.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.rkzuw62l89.js.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.staticwebassets.runtime.json
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.pdb
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.JSInterop.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.CSharp.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.AppContext.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Buffers.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Concurrent.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Immutable.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Specialized.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Configuration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Console.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Core.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.Common.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Process.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Drawing.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Drawing.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Formats.Asn1.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.Calendars.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipes.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Expressions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Parallel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Queryable.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Memory.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Http.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Http.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.HttpListener.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Mail.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.NameResolution.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Ping.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Quic.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Requests.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Security.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.ServicePoint.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Sockets.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebProxy.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebSockets.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Numerics.Vectors.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Numerics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ObjectModel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Uri.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Metadata.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.Reader.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.Writer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Handles.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Loader.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Numerics.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.AccessControl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Claims.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Principal.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.SecureString.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ServiceModel.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ServiceProcess.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Json.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Channels.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Overlapped.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Thread.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Timer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Transactions.Local.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Transactions.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ValueTuple.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Web.HttpUtility.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Web.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Windows.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.Linq.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.Serialization.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XPath.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\WindowsBase.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\mscorlib.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\netstandard.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.CoreLib.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.js
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.timezones.blat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.wasm
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_CJK.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_EFIGS.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_no_CJK.dat
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.AssemblyReference.cache
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.GeneratedMSBuildEditorConfig.editorconfig
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.AssemblyInfoInputs.cache
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.AssemblyInfo.cs
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.CoreCompileInputs.cache
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.MvcApplicationPartsAssemblyInfo.cache
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ocwopgRV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0E8tmDzn.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\N5sWhkk5.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\hsuGDVki.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EKzRX7yT.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6BjxRe94.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6S1DKSch.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qdaCN7gn.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qMJ4rfyd.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\VrcRe8o8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7cKiIiN+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\kNKILlvG.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\g8FEWRds.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vPLBEuqJ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dLVwl1yu.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\blprQAp+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\WZaPZ89N.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\pPX+ttXS.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\quegj6oj.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TFgB8MS8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\mLZbQ69M.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\O3g5UOk8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UkQDZS6T.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\XViJH0lv.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\GciqdQvV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6IlfbAip.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UculL72z.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\w+gnQl6B.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vi1nxMHG.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\nKZL4RDZ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\F3+c4PTN.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Oi5Ubuq1.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7tWxfV0b.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UcHz+6+n.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Y91wCoFK.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\66tsWNxn.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ey+f1L8R.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\T7gJt7mF.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\KBaqqk+s.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dINXCIIJ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\d2pPmvBf.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\tYlQDa+U.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BbGGK6Bf.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\q6BPAMr+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4+aEqMnG.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3IHKloIu.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Dw+U2OLf.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IVzyvzsh.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fpjq0mwT.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\mRwqXuz3.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uIpAMx+x.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EeXrMFHb.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\CZoy467q.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\U5K6CRCx.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wZocr9ul.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\e2keWnJs.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QI0tFQli.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8ZqOnP86.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\yplF0o4a.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8X7G6ibz.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ZxppUYqg.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BCAWTSuj.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\R473oN32.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\RI17Muu7.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EMkXsLxM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7rAbOLy1.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Xh6RatBA.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4JiqrFng.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\N2iq4fnA.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2EiZDBDK.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fd9o+LiD.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\J1C8vhan.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Dh7BhyLq.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\eZkzsWfV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xLb8mxiM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IT+bJeRe.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UbEp4nlb.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\kKbBOkpM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\eUxxQqe3.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HD1nQxBC.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wyNLq68L.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\9FYBPS5W.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8huJi3N8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TOipCjVa.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\lhhV149q.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ZX7j3Wbt.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ae5tx+At.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0Qd2EKcf.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\XYapCucX.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TemAZKuV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ea+1szQw.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3m+YznT8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\SKT+DW34.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jVJB+LxK.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uQAPxh1K.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\q2UjbdrV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+yRUR82T.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QzvOHtbT.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5xeBsJRC.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\oRFmuij+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IwwKL7Jj.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\nogSpcxC.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xL+1QD3f.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\fhTIbB5D.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\83IwVjgr.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xJFOBfnD.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0GTcusr4.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Qi7AJOs5.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ldwNvsQa.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jtRFMCGE.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ck73mM3K.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\x9uRsjeg.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3B0fITHx.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\r0a8DhLY.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\i3UIIxad.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5LA9T0hx.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\lkwe6qUN.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\AIjzYwaS.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3CUwPLg2.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\e7HRL4Ik.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NqV8jFIv.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\aDBK5neS.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EbZzrpAH.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\bqZLB8s+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4WE2dJqe.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\gU5GMorN.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qJC+H0gq.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\MrHAZSEN.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uQYJz8TI.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\PxeteQWT.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xWLJXeKW.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\aNwgLHxR.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\evja6P1T.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\syfl9VrQ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\g8LFxp8l.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fodaz+q4.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\WqRnuKa+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\85bk+hXR.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NLB29UJd.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\afWhpdvM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\JLhYAVFF.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HeG9jVtm.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\y++C67i4.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ued8u2Og.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\t94uhrBI.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2XYiauaz.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Jpej8jKQ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vE4z04Nh.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\oTpGquBi.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0wCvA5lx.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EzGxKGzl.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\t2gO4or0.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+o4W7R0C.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Pu7rzfd+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uu5AEDcn.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\42qxnAS3.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\d10pu9bU.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\k52UuBHT.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wQCrL++x.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+vsP7le2.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\KYasl+MK.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Wm6BXsiJ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\pXkr+eoD.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\SSffYM4A.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Gf+x7PiU.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\easGtBEM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\sy13FZ+e.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\V6+ZTop9.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BRzLwlnI.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\LI2eTAcW.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\sGByq0FV.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\53FvLA1x.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2wFDt1F8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\y05PWwXp.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\c9S4ycP8.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\K+AiGb45.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xGEPNIUn.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\GZyo4Nk4.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NqC+HYi+.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QSvt24dL.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jrZh1pXm.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\zyQwcwfe.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Le+v5Fzg.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QY6zQ+uL.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\h2QzPPPx.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ju+rpxx7.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\gU8wnKEm.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dwLlcy2Q.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\1alEJ0NN.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\PJZw3K2O.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vu38WtuZ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ydIjhQNl.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\akcuNXDQ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ectmeg+d.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\JsCwd+yl.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HXzdQ9uQ.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ArMGguiS.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\A6TYRTeM.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5DMomDUm.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\blazor.boot.json
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\staticwebassets.build.json
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\staticwebassets.development.json
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\bundle\BlazorClient.styles.css
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\projectbundle\BlazorClient.bundle.scp.css
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.CopyComplete
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\refint\BlazorClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.pdb
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\ref\BlazorClient.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+G:\андрей курсач рпбдис\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\n5ChpYtX.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.rkzuw62l89.js
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.4.rkzuw62l89.js.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.pdb.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\BlazorClient.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.staticwebassets.runtime.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\BlazorClient.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.CSharp.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.AppContext.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Buffers.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Concurrent.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.Specialized.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Collections.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ComponentModel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Configuration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Console.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Core.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.Common.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Data.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Process.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Drawing.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Drawing.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.Calendars.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Globalization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Compression.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.FileSystem.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.Pipes.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.IO.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Expressions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Parallel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.Queryable.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Memory.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Http.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.HttpListener.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Mail.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.NameResolution.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Ping.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Quic.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Requests.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Security.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.ServicePoint.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.Sockets.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebProxy.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.WebSockets.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Net.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Numerics.Vectors.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Numerics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ObjectModel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Uri.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Emit.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Metadata.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Reflection.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.Reader.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Resources.Writer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Handles.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Loader.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Numerics.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.Serialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Runtime.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.AccessControl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Claims.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.Principal.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.SecureString.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Security.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ServiceModel.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ServiceProcess.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encoding.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.Json.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Overlapped.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Tasks.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Thread.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.Timer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Threading.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Transactions.Local.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Transactions.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.ValueTuple.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Web.HttpUtility.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Web.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Windows.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.Linq.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.Serialization.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XPath.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Xml.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\WindowsBase.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\mscorlib.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\netstandard.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\System.Private.CoreLib.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.js
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.timezones.blat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\dotnet.wasm
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_CJK.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_EFIGS.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\icudt_no_CJK.dat
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.MvcApplicationPartsAssemblyInfo.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ocwopgRV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0E8tmDzn.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\N5sWhkk5.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\hsuGDVki.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EKzRX7yT.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6BjxRe94.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6S1DKSch.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qdaCN7gn.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qMJ4rfyd.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\VrcRe8o8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7cKiIiN+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\kNKILlvG.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\g8FEWRds.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vPLBEuqJ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dLVwl1yu.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\blprQAp+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\n5ChpYtX.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\WZaPZ89N.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\pPX+ttXS.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\quegj6oj.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TFgB8MS8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\mLZbQ69M.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\O3g5UOk8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UkQDZS6T.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\XViJH0lv.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\GciqdQvV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\6IlfbAip.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UculL72z.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\w+gnQl6B.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vi1nxMHG.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\nKZL4RDZ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\F3+c4PTN.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Oi5Ubuq1.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7tWxfV0b.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UcHz+6+n.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Y91wCoFK.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\66tsWNxn.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ey+f1L8R.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\T7gJt7mF.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\KBaqqk+s.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dINXCIIJ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\d2pPmvBf.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\tYlQDa+U.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BbGGK6Bf.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\q6BPAMr+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4+aEqMnG.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3IHKloIu.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Dw+U2OLf.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IVzyvzsh.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fpjq0mwT.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\mRwqXuz3.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uIpAMx+x.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EeXrMFHb.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\CZoy467q.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\U5K6CRCx.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wZocr9ul.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\e2keWnJs.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QI0tFQli.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8ZqOnP86.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\yplF0o4a.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8X7G6ibz.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ZxppUYqg.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BCAWTSuj.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\R473oN32.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\RI17Muu7.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EMkXsLxM.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\7rAbOLy1.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Xh6RatBA.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4JiqrFng.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\N2iq4fnA.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2EiZDBDK.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fd9o+LiD.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\J1C8vhan.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Dh7BhyLq.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\eZkzsWfV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xLb8mxiM.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IT+bJeRe.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\UbEp4nlb.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\kKbBOkpM.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\eUxxQqe3.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HD1nQxBC.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wyNLq68L.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\9FYBPS5W.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\8huJi3N8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TOipCjVa.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\lhhV149q.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ZX7j3Wbt.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ae5tx+At.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0Qd2EKcf.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\XYapCucX.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\TemAZKuV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ea+1szQw.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3m+YznT8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\SKT+DW34.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jVJB+LxK.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uQAPxh1K.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\q2UjbdrV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+yRUR82T.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QzvOHtbT.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5xeBsJRC.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\oRFmuij+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\IwwKL7Jj.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\nogSpcxC.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xL+1QD3f.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\fhTIbB5D.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\83IwVjgr.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xJFOBfnD.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0GTcusr4.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Qi7AJOs5.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ldwNvsQa.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jtRFMCGE.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ck73mM3K.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\x9uRsjeg.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3B0fITHx.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\r0a8DhLY.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\i3UIIxad.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5LA9T0hx.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\lkwe6qUN.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\AIjzYwaS.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\3CUwPLg2.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\e7HRL4Ik.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NqV8jFIv.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\aDBK5neS.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EbZzrpAH.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\bqZLB8s+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4WE2dJqe.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\gU5GMorN.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\qJC+H0gq.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\MrHAZSEN.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uQYJz8TI.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\PxeteQWT.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xWLJXeKW.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\aNwgLHxR.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\evja6P1T.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\syfl9VrQ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\g8LFxp8l.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Fodaz+q4.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\WqRnuKa+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\85bk+hXR.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NLB29UJd.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\afWhpdvM.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\JLhYAVFF.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HeG9jVtm.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\y++C67i4.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ued8u2Og.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\t94uhrBI.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2XYiauaz.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Jpej8jKQ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vE4z04Nh.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\oTpGquBi.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\0wCvA5lx.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\EzGxKGzl.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\t2gO4or0.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+o4W7R0C.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Pu7rzfd+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\uu5AEDcn.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\42qxnAS3.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\d10pu9bU.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\k52UuBHT.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\wQCrL++x.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\+vsP7le2.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\KYasl+MK.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Wm6BXsiJ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\pXkr+eoD.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\SSffYM4A.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Gf+x7PiU.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\easGtBEM.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\sy13FZ+e.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\V6+ZTop9.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\BRzLwlnI.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\LI2eTAcW.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\sGByq0FV.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\53FvLA1x.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\2wFDt1F8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\y05PWwXp.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\c9S4ycP8.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\K+AiGb45.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\xGEPNIUn.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\GZyo4Nk4.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\NqC+HYi+.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QSvt24dL.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\jrZh1pXm.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\zyQwcwfe.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Le+v5Fzg.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\QY6zQ+uL.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\h2QzPPPx.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\Ju+rpxx7.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\gU8wnKEm.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\dwLlcy2Q.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\1alEJ0NN.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\PJZw3K2O.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\vu38WtuZ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ydIjhQNl.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\akcuNXDQ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\ectmeg+d.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\JsCwd+yl.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\HXzdQ9uQ.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\GpKElK+f.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\4pzDBQcg.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\5DMomDUm.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\blazor.boot.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\staticwebassets.build.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\staticwebassets.development.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\bundle\BlazorClient.styles.css
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\scopedcss\projectbundle\BlazorClient.bundle.scp.css
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.csproj.CopyComplete
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\refint\BlazorClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\BlazorClient.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\ref\BlazorClient.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Blazor\BlazorClient\obj\Debug\net6.0\build-gz\YUVPE+6Q.gz

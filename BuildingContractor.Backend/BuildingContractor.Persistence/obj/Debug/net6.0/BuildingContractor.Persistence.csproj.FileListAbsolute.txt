@@ -1,0 +1,76 @@
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.deps.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.runtimeconfig.json
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CopyComplete
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\refint\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.genruntimeconfig.cache
+D:\5 сем\РПИБД\lab2\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\ref\BuildingContractor.Persistence.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.deps.json
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.runtimeconfig.json
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.AssemblyReference.cache
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfoInputs.cache
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfo.cs
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CoreCompileInputs.cache
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CopyComplete
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\refint\BuildingContractor.Persistence.dll
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.pdb
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.genruntimeconfig.cache
+E:\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\ref\BuildingContractor.Persistence.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.AssemblyReference.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfoInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfo.cs
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CoreCompileInputs.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.deps.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.runtimeconfig.json
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CopyComplete
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\refint\BuildingContractor.Persistence.dll
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.pdb
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.genruntimeconfig.cache
+G:\РПБДИС\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\ref\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.deps.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.runtimeconfig.json
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Application.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\bin\Debug\net6.0\BuildingContractor.Domain.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.AssemblyReference.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfoInputs.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.AssemblyInfo.cs
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CoreCompileInputs.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.csproj.CopyComplete
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\refint\BuildingContractor.Persistence.dll
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.pdb
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\BuildingContractor.Persistence.genruntimeconfig.cache
+D:\5 сем\РПИБД\lab7\BuildingContractor.Backend\BuildingContractor.Persistence\obj\Debug\net6.0\ref\BuildingContractor.Persistence.dll

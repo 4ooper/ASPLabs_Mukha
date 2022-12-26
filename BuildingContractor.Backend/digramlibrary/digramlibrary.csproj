@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuildingContractor.Application\BuildingContractor.Application.csproj" />
+    <ProjectReference Include="..\BuildingContractor.Domain\BuildingContractor.Domain.csproj" />
+    <ProjectReference Include="..\BuildingContractor.Persistence\BuildingContractor.Persistence.csproj" />
+    <ProjectReference Include="..\BuildingContractors.WebAPI\BuildingContractor.WebAPI.csproj" />
+  </ItemGroup>
+
+</Project>

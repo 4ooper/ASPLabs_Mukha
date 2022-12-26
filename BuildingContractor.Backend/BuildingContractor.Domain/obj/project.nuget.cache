@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+r1T3kbYzEGHq0g3C+XCkQbAvkdRqjk1PUHfuXcBijTrNHrsEWSNAjRvZL1lxTALe3bwQhxKBRGeYjo96y3Nzg==",
+  "success": true,
+  "projectFilePath": "D:\\5 сем\\РПИБД\\lab7\\BuildingContractor.Backend\\BuildingContractor.Domain\\BuildingContractor.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csgoc\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.10\\microsoft.aspnetcore.jsonpatch.6.0.10.nupkg.sha512",
+    "C:\\Users\\csgoc\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.10.nupkg.sha512",
+    "C:\\Users\\csgoc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\csgoc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\csgoc\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
